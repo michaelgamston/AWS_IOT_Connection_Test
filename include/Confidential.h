@@ -3,9 +3,15 @@
 #define SECRET
 #define THINGNAME "TEST_LAMP_1"
 
+<<<<<<< HEAD
 const char WIFI_SSID[] = "****************";
 const char WIFI_PASSWORD[] = "*****************";
 const char AWS_IOT_ENDPOINT[] = "***************.iot.eu-west-2.amazonaws.com";
+=======
+const char WIFI_SSID[] = "************";
+const char WIFI_PASSWORD[] = "*********";
+const char AWS_IOT_ENDPOINT[] = "**************.iot.eu-west-2.amazonaws.com";
+>>>>>>> 8382e9a5c83ed39c9216f518c517e109cadb98a0
 
 // Amazon Root CA 1
 
